@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm إيمان</h1>
-<!-- <h3 align="center">Une âme d'artiste ornée d'un flair infaillible.</h3> -->
+<h3 align="center">Une âme d'artiste ornée d'un flair infaillible.</h3>
  
 - 🌱 I’m currently learning topics that pique my curiosity.
 
 - 📫 How to reach me **imaneouada@gmail.com**
 
 
-<a href="https://github.com/imane0x" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 <a href = "mailto:imaneouada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
