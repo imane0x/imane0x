@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm إيمان</h1>
 <!-- <h3 align="center">Une âme d'artiste ornée d'un flair infaillible.</h3> -->
  
-- 🌱 I’m currently learning topics that pique my curiosity.
+- 🌱 I am an AI engineer currently seeking new job opportunities. 
 
-- 📫 How to reach me **imaneouada@gmail.com**
+- 📫 Feel free to check out my projects and get in touch via  **imaneouada@gmail.com**.
 
-
-
-<a href = "mailto:imaneouada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/imane-ouada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/imane-ouada/" height="30" width="40" /></a></p>
